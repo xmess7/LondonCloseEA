@@ -14,5 +14,7 @@ Please see this video for further instructions on use and inputs.
 
 https://www.youtube.com/watch?v=63LOP6rlNuU
 
+As time permits I may be adding new features.  These are features that are not really needed but provide enhancements that will help users to work with the EA.  When updates are made, they will be anounced in the thread.
+
 And as always.....
 The material presented here is for educational purposes.  The author makes no claim as to the profitability of subject programs.  Trading involves risk, please consult a professional for guidance on these matters. 
