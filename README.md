@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=63LOP6rlNuU
 Video2: 
 https://www.youtube.com/watch?v=MuYmseb2hOM
 
-Video3 (This video shows you how use the logs and charts when in debug):
+Video3 (This video shows you how use the logs and charts when in debug): 
 https://www.youtube.com/watch?v=PT2SvlEHJhI
 
 The idea of creating these MetaTrader 4 tools came about cause I saw a need to develop something that was simple and straight forward.  There is a section in the LondonClose thread where SwingMan introduces his indicator(smLondonCloseFiboZones_v6.ex4). While he did a great job impleneting it, I saw alot of folks asking questions on how to setup it up.  In particular many had problems understanding the concept of GMT.  In addition an EAs that were presented only allowed the user to trade one pair at a time.  So the result was that the user would have to add the EA to MANY symbols thereby causing a possible slowdown to the MetaTrader platform.
