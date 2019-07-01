@@ -5,7 +5,7 @@ The file xm7_smLondonCloseFiboZones_v7.ex4 is the indicator
 
 The file xm7_LondonClose_v19.ex4 is the Expert Advisor(EA)
 
-For information on use please see following video.  If you missed something on first video then check out the second one.  It contains a little more detail.  Video 1 is after release of version 19 and video 2 is after release of verion 16
+For information on use please see following videos.  If you missed something on first video then check out the second one.  It contains a little more detail.  Video 1 is after release of version 19 and video 2 is after release of verion 16 (which at the time I thought would be the final release :) )
 
 Video 1: 
 https://www.youtube.com/watch?v=63LOP6rlNuU
