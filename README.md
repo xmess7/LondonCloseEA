@@ -5,14 +5,17 @@ The file xm7_smLondonCloseFiboZones_v7.ex4 is the indicator
 
 The file xm7_LondonClose_v19.ex4 is the Expert Advisor(EA)
 
+For information on use please see following video.  If you missed something on first video then check out the second one.  It contains a little more detail.  Video 1 is after release of version 19 and video 2 is after release of verion 16
+
+Video 1: 
+https://www.youtube.com/watch?v=63LOP6rlNuU
+
+Video2: 
+https://www.youtube.com/watch?v=MuYmseb2hOM
+
 The idea of creating these MetaTrader 4 tools came about cause I saw a need to develop something that was simple and straight forward.  There is a section in the LondonClose thread where SwingMan introduces his indicator(smLondonCloseFiboZones_v6.ex4). While he did a great job impleneting it, I saw alot of folks asking questions on how to setup it up.  In particular many had problems understanding the concept of GMT.  In addition an EAs that were presented only allowed the user to trade one pair at a time.  So the result was that the user would have to add the EA to MANY symbols thereby causing a possible slowdown to the MetaTrader platform.
 
 Originally I had already started to build my EA and updated the mLondonCloseFiboZones_v6.ex4 exe but due to other projects I left it alone.  Now today I returned and in a matter of hours I completed the project.  That was the easy part.  Then came the debugging.  It took some time to get the bugs out (I would say like 2 months).  
-
-Hence the two files you are seeing here.  I am including a link to an information video that shows info on how and what the EA involves.
-Please see this video for further instructions on use and inputs.
-
-https://www.youtube.com/watch?v=63LOP6rlNuU
 
 As time permits I may be adding new features.  These are features that are not really needed but provide enhancements that will help users to work with the EA.  When updates are made, they will be anounced in the thread.
 
