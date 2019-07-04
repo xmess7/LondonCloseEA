@@ -3,18 +3,12 @@ The files provided in this repository were developed based on the LondonClose Tr
 
 The file xm7_smLondonCloseFiboZones_v8.ex4 is the indicator
 
-The file xm7_LondonClose_v20.ex4 is the Expert Advisor(EA)
+The file xm7_LondonClose_v21.ex4 is the Expert Advisor(EA)
 
 For information on use please see following videos.  If you missed something on first video then check out the second one.  It contains a little more detail.  Video 1 is after release of version 19 and video 2 is after release of verion 16 (which at the time I thought would be the final release :) ).  I included a 3 video which shows how to use the logs and charts when in debug and verify that the EA is working.   I did this already many times but if you want to verify anthing that you think should of happened then Video 3 should give you the info you need.
 
 Video 1: 
-https://www.youtube.com/watch?v=63LOP6rlNuU
-
-Video2: 
-https://www.youtube.com/watch?v=MuYmseb2hOM
-
-Video3 (This video shows you how use the logs and charts when in debug): 
-https://www.youtube.com/watch?v=PT2SvlEHJhI
+https://www.youtube.com/watch?v=vQP8yLLMDwY
 
 Video4:(setting up VPS time to match local PC time):
 https://www.youtube.com/watch?v=cl8bNTT2uZo
