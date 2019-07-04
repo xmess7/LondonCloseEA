@@ -1,5 +1,5 @@
 # LondonCloseEA
-The files provided in this repository were developed based on the LondonClose Trading System as presented in the thread at Forex Factory (https://www.forexfactory.com/showthread.php?t=598223).  The approach was created by GhostRider.  Please refer to the link for more information on the LondonClose Trading System.
+The files provided in this repository were developed based on the LondonClose Trading System as presented in the thread at Forex Factory (https://www.forexfactory.com/showthread.php?t=598223).  The approach was created by GhostBiker.  Please refer to the link for more information on the LondonClose Trading System.
 
 The file xm7_smLondonCloseFiboZones_v8.ex4 is the indicator
 
