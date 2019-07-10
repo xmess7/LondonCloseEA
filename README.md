@@ -1,9 +1,9 @@
 # LondonCloseEA
 The files provided in this repository were developed based on the LondonClose Trading System as presented in the thread at Forex Factory (https://www.forexfactory.com/showthread.php?t=598223).  The approach was created by GhostBiker.  Please refer to the link for more information on the LondonClose Trading System.
 
-The file xm7_smLondonCloseFiboZones_v8.ex4 is the indicator
+The file xm7_smLondonCloseFiboZones_vXX.ex4 is the indicator
 
-The file xm7_LondonClose_v24.ex4 is the Expert Advisor(EA)
+The file xm7_LondonClose_vXX.ex4 is the Expert Advisor(EA)
 
 For information on use please see following videos.  If you missed something on first video then check out the second one.  It contains a little more detail.  Video 1 is after release of version 19 and video 2 is after release of verion 16 (which at the time I thought would be the final release :) ).  I included a 3 video which shows how to use the logs and charts when in debug and verify that the EA is working.   I did this already many times but if you want to verify anthing that you think should of happened then Video 3 should give you the info you need.
 
