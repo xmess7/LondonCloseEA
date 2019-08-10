@@ -1,5 +1,7 @@
 # LondonCloseEA
 
+IMPORTANT: If you see a wierd number for the GMT time or MARKET CLOSED when its not.  Remove the globals (F3 and delete any global that starts with xm7) and reload the EA.  
+
 The files provided in this repository were developed based on the LondonClose Trading System as presented in the thread at Forex Factory (https://www.forexfactory.com/showthread.php?t=598223).  The approach was created by GhostBiker.  Please refer to the link for more information on the LondonClose Trading System.
 
 The file xm7_smLondonCloseFiboZones_vXX.ex4 is the indicator
