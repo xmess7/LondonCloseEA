@@ -1,6 +1,6 @@
 # LondonCloseEA
 
-IMPORTANT: If you see a wierd number for the GMT time or MARKET CLOSED when its not.  Remove the globals (F3 and delete any global that starts with xm7) and reload the EA.  
+IMPORTANT: If you see a weird GMT time or MARKET CLOSED  on display when its not.  Remove all globals (hit F3 and delete any global that starts with xm7) and then reload the EA. MAKE SURE YOU DOWNLOAD THIS LATEST COPY.  
 
 The files provided in this repository were developed based on the LondonClose Trading System as presented in the thread at Forex Factory (https://www.forexfactory.com/showthread.php?t=598223).  The approach was created by GhostBiker.  Please refer to the link for more information on the LondonClose Trading System.
 
