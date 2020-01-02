@@ -11,7 +11,11 @@ The file xm7_LondonClose_vXX.ex4 is the Expert Advisor(EA)
 For information on use please see following videos.  Video 1 provides details on inputs, operation, and debugging EA operation.  Video 2 provides instructions on setting your VPS clock(some users had issues with this).
 
 Video 1:
-https://www.youtube.com/watch?v=AORXX5OYo8I
+https://www.youtube.com/watch?v=Zs21gvwtDRM (v39)
+
+(Previous Video1:
+This video has more on debug options at time 7:20
+https://youtu.be/AORXX5OYo8I?t=440 )
 
 Video2:(setting up VPS time to match local PC time):
 https://www.youtube.com/watch?v=cl8bNTT2uZo
