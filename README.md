@@ -1,5 +1,8 @@
 # LondonCloseEA
 
+2020.08.28 version 44 update:
+This update now has a new input called selectLimitOrderFibs.  The input allows the user to tell the EA on which fibs (00/100 for limit Buy or 23.6/123.6 for limit sell) to set the new pending orders, after a market order has been set.
+
 IMPORTANT: If you see a weird GMT time or MARKET CLOSED  on display when its not.  Remove all globals (hit F3 and delete any global that starts with xm7) and then reload the EA. MAKE SURE YOU DOWNLOAD THIS LATEST COPY.  
 
 The files provided in this repository were developed based on the LondonClose Trading System as presented in the thread at Forex Factory (https://www.forexfactory.com/showthread.php?t=598223).  The approach was created by GhostBiker.  Please refer to the link for more information on the LondonClose Trading System.
