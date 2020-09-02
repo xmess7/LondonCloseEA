@@ -2,8 +2,10 @@
 
 2020.09.02 version 45 update:
 This update now has two new inputs:
+
 overALLDayProfitTarget(%\pips)
 overALLWeekProfitTarget(%\pips)
+
 These inputs tell the EA when to stop for either the week or the day whenever the entered target is met.  Trading resumes on the next day or week.  Default=0 means EA will not use these inputs and allow the basket of trade to continue.
 
 IMPORTANT: If you see a weird GMT time or MARKET CLOSED  on display when its not.  Remove all globals (hit F3 and delete any global that starts with xm7) and then reload the EA. MAKE SURE YOU DOWNLOAD THIS LATEST COPY.  
