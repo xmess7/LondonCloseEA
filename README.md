@@ -3,7 +3,7 @@
 2020.09.02 version 45 update:
 This update now has two new inputs:
 
-overALLDayProfitTarget(%\pips)
+overALLDayProfitTarget(%\pips)<br>
 overALLWeekProfitTarget(%\pips)
 
 These inputs tell the EA when to stop for either the week or the day whenever the entered target is met.  Trading resumes on the next day or week.  Default=0 means EA will not use these inputs and allow the basket of trade to continue.
